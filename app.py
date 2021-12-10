@@ -1,3 +1,7 @@
+""" app.py
+author: Nathan Vrieland
+GUI for normal probability calculator I wrote in go
+"""
 import tkinter as tk
 from subprocess import run
 from os.path import exists
